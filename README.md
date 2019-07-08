@@ -6,7 +6,7 @@ Student：陳品妤
 
 ID：暫無
 
-College：NTHU 準大一
+College：NTHU DSPMT 一
 
 Intro：大家好我是品妤！🙂
 
@@ -21,7 +21,7 @@ Intro：大家好我是品妤！🙂
 🍀In class: 
   sign up on github; 
   finish establishing a readme file;
-  R markdown
+  R markdown html (https://liv-c.github.io/-/rstudio0708)
   
 ☘️At home: install github, R & RStudio; 
 
