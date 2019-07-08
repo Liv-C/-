@@ -16,17 +16,43 @@ Intro：大家好我是品妤！🙂
 
 # [WEEK 1]
 
+1️⃣ 2019.07.08
+
 🍀In class: sign up on github; finish establishing a readme file
 
 ☘️At home:
 
-# [WEEK 2]
+
+2️⃣ 2019.07.11
 
 🍀In class:
 
 ☘️At home:
 
+# [WEEK 2]
+
+3️⃣ 2019.07.15
+
+🍀In class:
+
+☘️At home:
+
+4️⃣ 2019.07.18
+
+🍀In class:
+
+☘️At home:
+
+
 # [WEEK 3]
+
+5️⃣ 2019.07.22
+
+🍀In class:
+
+☘️At home:
+
+6️⃣ 2019.07.25
 
 🍀In class:
 
