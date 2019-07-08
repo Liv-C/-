@@ -14,13 +14,16 @@ Intro：大家好我是品妤！🙂
 # Schedule
 
 
-# [WEEK 1]
+### [WEEK 1] ###
 
 1️⃣ 2019.07.08
 
-🍀In class: sign up on github; finish establishing a readme file
-
-☘️At home: install github, R & RStudio; create a R file; upload the R file to github
+🍀In class: 
+  sign up on github; 
+  finish establishing a readme file;
+  R markdown
+  
+☘️At home: install github, R & RStudio; 
 
 
 2️⃣ 2019.07.11
@@ -29,7 +32,7 @@ Intro：大家好我是品妤！🙂
 
 ☘️At home:
 
-# [WEEK 2]
+### [WEEK 2] ###
 
 3️⃣ 2019.07.15
 
@@ -43,8 +46,7 @@ Intro：大家好我是品妤！🙂
 
 ☘️At home:
 
-
-# [WEEK 3]
+### [WEEK 3] ###
 
 5️⃣ 2019.07.22
 
