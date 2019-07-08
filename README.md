@@ -21,7 +21,7 @@ Intro：大家好我是品妤！🙂
 🍀In class: 
   sign up on github; 
   finish establishing a readme file;
-  【R markdown html】 (https://liv-c.github.io/-/r%20studio/rstudio0708.html)
+  [R markdown html](https://liv-c.github.io/-/r%20studio/rstudio0708.html)
   
 ☘️At home: install github, R & RStudio; 
 
