@@ -9,3 +9,25 @@ ID：暫無
 College：NTHU 準大一
 
 Intro：大家好我是品妤！🙂
+
+
+# Schedule
+
+
+# [WEEK 1]
+
+In class:
+
+At home:
+
+# [WEEK 2]
+
+In class:
+
+At home:
+
+# [WEEK 3]
+
+In class:
+
+At home:
