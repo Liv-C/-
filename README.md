@@ -16,18 +16,18 @@ Intro：大家好我是品妤！🙂
 
 # [WEEK 1]
 
-In class: sign up on github; finish establishing a readme file
+🍀In class: sign up on github; finish establishing a readme file
 
-At home:
+☘️At home:
 
 # [WEEK 2]
 
-In class:
+🍀In class:
 
-At home:
+☘️At home:
 
 # [WEEK 3]
 
-In class:
+🍀In class:
 
-At home:
+☘️At home:
