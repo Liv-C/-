@@ -20,7 +20,7 @@ Intro：大家好我是品妤！🙂
 
 🍀In class: sign up on github; finish establishing a readme file
 
-☘️At home:
+☘️At home: install github, R & RStudio; create a R file; upload the R file to github
 
 
 2️⃣ 2019.07.11
