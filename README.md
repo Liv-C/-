@@ -23,12 +23,12 @@ Intro：大家好我是品妤！🙂
   finish establishing a readme file;
   [R markdown html](https://liv-c.github.io/-/r%20studio/rstudio0708.html)
   
-☘️At home: install github, R & RStudio; 
+☘️At home: install github, R & RStudio
 
 
 2️⃣ 2019.07.11
 
-🍀In class:
+🍀In class:[practice html](
 
 ☘️At home:
 
