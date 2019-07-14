@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+author: "sdchen"
+date: "2019/7/14"
+output: html_document
+---
+##Input the first piece of data
+###Theatre info of2016
+```{r} 
+library(dplyr)
+library(downloader)
+filename <- "theatreloc1.csv"
+first <- read.csv(filename)
+first
+```
+
+##Input the second piece of data
+###Theatre info of 2015
+```{r}
+library(dplyr)
+library(downloader)
+filename <- "theatreloc2.csv"
+second <- read.csv(filename)
+second
+```
+
