@@ -28,7 +28,7 @@ Intro：大家好我是品妤！🙂
 
 2️⃣ 2019.07.11
 
-🍀In class: [practice 1 html](https://github.com/Liv-C/-/blob/master/HW1/2019.07.11.html); [practice 2 html](
+🍀In class: [hw1](https://liv-c.github.io/-/HW1/%E6%AD%A3%E5%BC%8F%E7%89%880714.html)； [practice 1 html](https://github.com/Liv-C/-/blob/master/HW1/2019.07.11.html)
 
 ☘️At home:
 
